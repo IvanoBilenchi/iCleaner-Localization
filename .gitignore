@@ -1,0 +1,12 @@
+# OS X specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight*
+.Trashes
+*.swp
+*.lock
+
+# Win specific
+ehthumbs.db
+Thumbs.db
