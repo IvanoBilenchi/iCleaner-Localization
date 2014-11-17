@@ -16,7 +16,6 @@ Keep reading for detailed instructions on how to contribute.
 * Bulgarian
 * Czech
 * Finnish
-* Hungarian
 * Japanese
 * Kurdish
 * Norwegian
