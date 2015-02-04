@@ -14,7 +14,6 @@ Keep reading for detailed instructions on how to contribute.
 
 * Azerbaijani
 * Bulgarian
-* Czech
 * Finnish
 * Japanese
 * Kurdish
