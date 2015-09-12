@@ -10,3 +10,6 @@
 # Win specific
 ehthumbs.db
 Thumbs.db
+
+# Project specific
+gen_incomplete
