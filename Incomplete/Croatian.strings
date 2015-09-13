@@ -1,8 +1,0 @@
-﻿"AUTOMANAGEDEPENDENCIES" = "Automatsko upravljanje ovisnostima";
-"BATTERYDATA" = "Podaci o upotrebi baterije";
-"DONE" = "Gotovo";
-"IOSVERNOTSUPPORTED" = "iCleaner verzija %@ nepodržava službeno iOS %@.\n\nPreporučeno je da pričekate ažuriranu verziju. Koristite na vlastitu odgovornost.";
-"MSADDONSMSG" = "Ovaj izbornik možete koristiti da privremeno onemogućite neke svoje postavke radi otklanjanja poteškoća.";
-"PREFBUNDLESMSG" = "Ovaj izbornik vam omogućuje kontrolu postavki koje može vidjeti i mijenjati u postavkama aplikacije.";
-"TERMSPOPUPMSG" = "Odvojite trenutak za pročitati EULA i pravila o privatnosti. Kod nastavka, vi prihvaćate i dopuštate korištenje i dijeljenje sa uređajima vaših partnerima, identifikatorima i drugih informacija. To omogućuje prilagodbu sadržaja i oglasa, a da bi se poboljšala aplikacija.";
-"WELCOMEMSG" = "Dobrodošli u iCleaner!";
