@@ -1,8 +1,0 @@
-﻿"AUTOMANAGEDEPENDENCIES" = "Administrar dependências automaticamente";
-"BATTERYDATA" = "Dados de uso de bateria";
-"DONE" = "Pronto";
-"IOSVERNOTSUPPORTED" = "O iCleaner versão %@ ainda não é oficialmente compatível com o iOS %@.\n\n É recomendado que você aguarde a atualização. Ou use este por sua conta e risco.";
-"MSADDONSMSG" = "Você pode usar este menu para inativar temporariamente seus tweaks para fins de solução de problemas.";
-"PREFBUNDLESMSG" = "Este menu permite a você a controlar quais tweaks podem ser vistos e alterados nos Ajustes.";
-"TERMSPOPUPMSG" = "Por favor, leia o Leia-me e as políticas de privacidade. Continuando, você concorda com eles e e autoriza o uso e compartilhamento com meus parceiros de identificação de dispositivos e outras informações. Isto me permite personalizar conteúdo e propagandas, e a continuar melhorando o aplicativo.";
-"WELCOMEMSG" = "Bem vindo ao iCleaner!";
