@@ -77,7 +77,7 @@
 "LANGLBL" = "Seleccionar idioma";
 "LANGNAME" = "Português";
 "LANGTOREMLBL" = "Idiomas a remover";
-"LANGTOREMMSG" = "Selecione os idiomas que deseja remover.\n\nNOTA: dependendo da versão de seu iOS e teclado ''Emoji'' instalado, removendo ''Japanese'' pode tornar os emoticons inutilizáveis.";
+"LANGTOREMMSG" = "Seleccione os idiomas que deseja remover.\n\nNOTA: dependendo da versão do seu iOS e do teclado ''Emoji'' instalado, remover o ''Japonês'' pode inutilizar os emoticons.";
 "LANGUAGES" = "Idiomas";
 "LDAEMONSLBL" = "Daemons de arranque";
 "LDAEMONSMSG" = "Toque para ver a descrição.";
@@ -165,7 +165,7 @@
 "VOICEDAEMONMSG" = "Desactivar estes daemons inutilizará o Controlo por voz e a Siri.";
 "VPNDAEMONLBL" = "Daemon de VPN";
 "VPNDAEMONMSG" = "Se não utiliza as Redes Virtuais Privadas, pode desactivar este daemon em segurança.";
-"WALLPAPERSLBL" = "Administrar Wallpapers";
+"WALLPAPERSLBL" = "Gerir papéis de parede";
 "WALLPAPERSMSG" = "Toque para pré-visualizar.";
 "WARNINGPOPUPSLBL" = "Popups de aviso";
 "WEIBODAEMONLBL" = "Daemon do Weibo";
