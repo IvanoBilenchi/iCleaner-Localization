@@ -123,7 +123,7 @@
 "REGISTERED" = "Registado";
 "REGISTRATION" = "Registo";
 "REGULARFILE" = "Ficheiro normal";
-"REMBAKBTN" = "Apagar ficheiros de backup";
+"REMBAKBTN" = "Apagar ficheiros de cópia de segurança";
 "REMBAKLBL" = "A remover ficheiros de cópia de segurança";
 "REMBAKMSG" = "Tem a certeza que deseja remover os ficheiros criados no Modo de Teste?";
 "RESBAKBTN" = "Restaurar ficheiros de cópia de segurança";
