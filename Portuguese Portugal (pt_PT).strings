@@ -101,8 +101,8 @@
 "OTADAEMONLBL" = "Daemons das actualizações OTA";
 "OTADAEMONMSG" = "Estes daemons estão relacionados com as actualizações de software OTA.";
 "OTAUPDATES" = "Actualizações de software OTA";
-"PASSBOOKDAEMONLBL" = "Daemon do Passbook";
-"PASSBOOKDAEMONMSG" = "Se não utiliza o Passbook, pode desactivar este daemon em segurança.";
+"PASSBOOKDAEMONLBL" = "Daemon de Wallet";
+"PASSBOOKDAEMONMSG" = "Se não utiliza a aplicação Wallet, pode desactivar este daemon em segurança.";
 "PATH" = "Caminho";
 "PLUGINDESC1" = "Executar uma limpeza com o iCleaner.";
 "PLUGINDESC2" = "Limpeza sem alerta de confirmação.";
