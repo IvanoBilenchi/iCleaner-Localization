@@ -1,0 +1,6 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ],
+    "editor.renderWhitespace": "all"
+}
